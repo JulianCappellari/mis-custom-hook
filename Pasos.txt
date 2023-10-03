@@ -1,0 +1,13 @@
+Pasos para subir simple a github
+
+- git init
+- git add .
+- git commit -m "..."
+- copiamos la segunda seccion de codigo que nos da github y la pegamos en la terminal y listo 
+
+-------------------------------------
+Para hacer una actualicion
+
+-git add .
+- git commit -m "...."
+- git push 
